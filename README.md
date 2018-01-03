@@ -2,5 +2,7 @@
 Android application for TicTacToe
 
 ## Screenshos
-![](images/s1.png =250x250)
+<img src="https://github.com/favicon.ico" width="48">
+
+![Screenshot](images/s1.png)
 
