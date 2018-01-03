@@ -2,8 +2,5 @@
 Android application for TicTacToe
 
 ## Screenshos
-<img src="https://github.com/deep153/TicTacToe/images/s1.png" width="48">
-
-
-![Alt text](images/s1.png)
+![Alt text](images/s1.png) {:height="50px" width="50px"}.
 
